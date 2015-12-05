@@ -6,5 +6,13 @@
     {
         "merged": "D:\\android\\AndroidStudioProjects\\Recorder3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\android\\AndroidStudioProjects\\Recorder3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\Recorder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\Recorder\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\Recorder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\Recorder\\app\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]
