@@ -15,4 +15,4 @@ android实时语音demo
 3. 在客户端上暂时只支持1、和2两个id，所以在编辑框中只能填入1或2这两个id；
 
 <p></p>
-![img](/screenshots/Screenshot_20151205-143503.png)
+![img](/screenshots/Screenshot_20151205-152757.png)
