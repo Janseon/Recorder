@@ -3,6 +3,8 @@
 
 服务器的代码路径：Recorder\app\src\server
 
+详细博客：[android实时语音方案](https://janseon.github.io/android-speex-speech/)
+
 <p></p>
 android实时语音demo
 
